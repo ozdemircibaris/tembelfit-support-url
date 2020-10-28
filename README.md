@@ -2,7 +2,7 @@
 Tembel Fit support url
 
 
-#Kullanıcı Sözleşmesi
+# Kullanıcı Sözleşmesi
 
 
 Giriş
