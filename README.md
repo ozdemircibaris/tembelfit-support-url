@@ -4,7 +4,7 @@ Tembel Fit support url
 
 #Kullanıcı Sözleşmesi
 
-export const userAgreement = `
+
 Giriş
 1. İşbu Uygulamayı her kullanışınızda o an yürürlükte olan Gizlilik Politikasına tabi olacaksınız
 ve uygulamamızı her kullanışınızda koşulları kabul ettiğinizden emin olmak için bu metni
@@ -171,4 +171,4 @@ c) Chrome’da (sürüm 29) “Özelleştirme ve kontrol” menüsüne eriştikt
 “Gelişmiş ayarları göster” ve “Tarama verilerini temizle” üzerine tıkladıktan sonra
 “Çerezleri ve diğer site eklenti verilerini sil” seçeneğini seçip “Tarama verilerini
 temizle” üzerine tıklayarak tüm çerezleri silebilirsiniz.
-2) Çerezleri silmek, birçok internet sitesinin kullanılabilirliğini kısıtlayacaktır.`
+2) Çerezleri silmek, birçok internet sitesinin kullanılabilirliğini kısıtlayacaktır.
